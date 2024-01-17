@@ -36,11 +36,11 @@ body{  background-color: #70f;
     text-align: left;
     text-shadow: #3f0   2px 2px;
     font-weight: 250;
-  
     line-height: 0; 
 }
 .puntos {
     text-decoration: underline yellowgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .textito2 {
     font-size: 35px;
@@ -60,4 +60,12 @@ body{  background-color: #70f;
 .ratita {
     width: 400.01px;
     height: 400.01px;
+}
+li {
+    font-size: 30px;
+}
+.shogur p {
+    text-align: center;
+    font-size: 77px;
+    color: yellow;
 }
